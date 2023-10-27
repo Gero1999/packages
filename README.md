@@ -7,4 +7,5 @@ Welcome to my Packages repository! Here, you'll find the collection of public pa
 
 ### Data extraction and standarization 🔃
 
-* [getGWAS](getGWAS). Can be used to query, extract and standarize summary statistics files from GWAS catalog directly into R. 
+* [getGWAS](getGWAS). Can be used to query, extract and standarize summary statistics files from GWAS catalog directly into R.
+* [getArray](getArray). Can be used to query, extract and clean raw transcriptomic files from ArrayExpress directly into R. 
